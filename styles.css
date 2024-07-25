@@ -93,3 +93,26 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+main h3 {
+    color: #2980b9;
+    margin-top: 2rem;
+}
+
+main ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+main li {
+    margin-bottom: 1rem;
+}
+
+main a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
