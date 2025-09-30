@@ -7,6 +7,5 @@ if(toggle){
     toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 }
-
 const yearEl = document.getElementById('year');
 if(yearEl){ yearEl.textContent = new Date().getFullYear(); }
